@@ -1,0 +1,1 @@
+# This is a JS project for fecthing Motivational Quote using API
